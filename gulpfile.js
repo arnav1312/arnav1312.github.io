@@ -120,3 +120,8 @@ gulp.task('dev', ['css', 'js', 'browserSync'], function() {
   gulp.watch('./js/*.js', ['js']);
   gulp.watch('./*.html', browserSync.reload);
 });
+
+var install = require("gulp-install");
+
+gulp.src(['./bower.json', './package.json'])
+  .pipe(install());
