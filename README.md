@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/arnav1312/arnav1312.github.io/tree/master/img/screenshot.png)](https://arnav1312.github.io/)
+[![Resume Preview]![alt text](https://github.com/arnav1312/arnav1312.github.io/tree/master/img/screenshot.png)](https://arnav1312.github.io/)
 
 **[View Live Preview](https://arnav1312.github.io/)**
 
