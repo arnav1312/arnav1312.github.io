@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://arnav1312.github.io/)
+[![Resume Preview](/Users/arnavsaxena/Desktop/arnav1312.github.io/img/screenshot.png)](https://arnav1312.github.io/)
 
 **[View Live Preview](https://arnav1312.github.io/)**
 
